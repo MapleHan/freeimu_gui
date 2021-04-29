@@ -1,6 +1,7 @@
 # FreeIMU-GUI
 FreeIMU GUI originally from Fabio Varesano - modified for Python 3.6 and PyQT5
 https://code.launchpad.net/~fabio-varesano/freeimu/trunk
+## 源github仓库https://github.com/davPo/FreeIMU-GUI
 ## 使用说明：https://zhuanlan.zhihu.com/p/368744050
 ## FreeIMU library commands
 
